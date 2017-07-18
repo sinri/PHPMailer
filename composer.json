@@ -1,36 +1,36 @@
 {
   "name": "sinri/smallphpmailer",
-    "type": "library",
+  "type": "library",
   "description": "PHPMailer is a full-featured email creation and transfer class for PHP. This is a thinned version.",
-    "authors": [
-        {
-            "name": "Marcus Bointon",
-            "email": "phpmailer@synchromedia.co.uk"
-        },
-        {
-            "name": "Jim Jagielski",
-            "email": "jimjag@gmail.com"
-        },
-        {
-            "name": "Andy Prevost",
-            "email": "codeworxtech@users.sourceforge.net"
-        },
-        {
-            "name": "Brent R. Matzelle"
-        },
-      {
-        "name": "Sinri Edogawa",
-        "email": "e.joshua.s.e@gmail.com"
-        }
-    ],
-    "require": {
-        "ext-ctype": "*",
-      "php": ">=5.3.0"
+  "authors": [
+    {
+      "name": "Marcus Bointon",
+      "email": "phpmailer@synchromedia.co.uk"
     },
-    "autoload": {
-      "files": [
-        "PHPMailerAutoload.php"
-      ]
+    {
+      "name": "Jim Jagielski",
+      "email": "jimjag@gmail.com"
     },
-    "license": "LGPL-2.1"
+    {
+      "name": "Andy Prevost",
+      "email": "codeworxtech@users.sourceforge.net"
+    },
+    {
+      "name": "Brent R. Matzelle"
+    },
+    {
+      "name": "Sinri Edogawa",
+      "email": "e.joshua.s.e@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-ctype": "*",
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "files": [
+      "PHPMailerAutoload.php"
+    ]
+  },
+  "license": "LGPL-2.1"
 }
