@@ -1,3 +1,19 @@
+# Small PHP Mailer
+
+PHPMail is a good library but too heavy. This is a thinned version of PHPMail.
+As the original license LGPLv2.1 required, this uses the same license.
+
+This library is designed to support sending mail through SMTP *only*.
+
+See the sample in `test.php`.
+
+Sinri Edogawa, 2017 July 18th.
+
+Beneath the horizon line, you can read the original project readme.
+
+= = = = = = = = = = = = = = = = = = = = = 
+
+
 ![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
 
 # PHPMailer - A full-featured email creation and transfer class for PHP
